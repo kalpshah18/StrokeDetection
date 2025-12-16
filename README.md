@@ -38,7 +38,13 @@ This project provides a web interface for detecting strokes from facial images u
 ## Sample Outputs
 Sample outputs from the Streamlit Interface
 
-![Prediction 1](SamplePrediction.png) ![Prediction 2](SamplePrediction2.png)
+### Prediction 1:
+![Prediction 1](SamplePrediction.png) 
+
+
+
+### Prediction 2:
+![Prediction 2](SamplePrediction2.png)
 
 ## File Structure
 
