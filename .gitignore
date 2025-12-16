@@ -18,9 +18,6 @@ venv/
 .ipynb_checkpoints/
 # Streamlit
 .streamlit/
-# Model files
-*.pth
-*.pt
 # OS
 .DS_Store
 Thumbs.db
