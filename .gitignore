@@ -1,0 +1,27 @@
+
+__pycache__/
+.vscode/
+# Python
+*.pyc
+*.pyo
+*.pyd
+*.pytorch
+*.pkl
+*.h5
+*.hdf5
+*.egg-info/
+env/
+venv/
+.env/
+.venv/
+# Jupyter
+.ipynb_checkpoints/
+# Streamlit
+.streamlit/
+# Model files
+*.pth
+*.pt
+# OS
+.DS_Store
+Thumbs.db
+
