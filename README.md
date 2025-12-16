@@ -35,6 +35,11 @@ This project provides a web interface for detecting strokes from facial images u
   - Resize to 224x224
   - Normalize with ImageNet mean and std
 
+## Sample Outputs
+Sample outputs from the Streamlit Interface
+
+![Prediction 1](SamplePrediction.png) ![Prediction 2](SamplePrediction2.png)
+
 ## File Structure
 
 - `streamlit.py` — Streamlit web app for inference
